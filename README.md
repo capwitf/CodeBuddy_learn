@@ -41,3 +41,7 @@ chapters/
 - Task3：实战 Hello AI World
 - Task4：复盘 & 输出
 - 优秀笔记 & 投稿
+
+## 联系方式
+
+- `capwitf@outlook.com`

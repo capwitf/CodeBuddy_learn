@@ -45,3 +45,9 @@ chapters/
 ## ✉️ 联系方式
 
 - `capwitf@outlook.com`
+
+## ✍️ 签名
+
+<p align="right">
+  <img src="assets/capwitf.png" alt="capwitf 签名" width="320" />
+</p>

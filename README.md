@@ -40,13 +40,12 @@ chapters/
 - 🛠️ Task2：上手 CodeBuddy
 - 🚀 Task3：实战 Hello AI World
 - 🔁 Task4：复盘 & 输出
-- 🏅 优秀笔记 & 投稿
+
 
 ## ✉️ 联系方式
 
-- `capwitf@outlook.com`
+- `capwitf@outlook.com`  任何问题意见欢迎联系
 
-## ✍️ 签名
 
 <p align="right">
   <img src="assets/capwitf.png" alt="capwitf 签名" width="320" />

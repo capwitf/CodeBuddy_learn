@@ -46,6 +46,6 @@ chapters/
 - `capwitf@outlook.com`  任何问题意见欢迎联系
 
 
-<p align="right">
+<div align="center">
   <img src="assets/capwitf.png" alt="capwitf 签名" width="320" />
-</p>
+</div>

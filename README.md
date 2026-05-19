@@ -7,8 +7,7 @@
 
 ## 📌 现在有什么
 
-- 📘 第 1 章：共学营说明
-- 🧠 第 2 章：Task1，认识 AI Coding
+- 🧠 第 1 章：Task1，认识 AI Coding
 
 ## 🗂️ 目录
 
@@ -19,9 +18,9 @@
 ```text
 chapters/
   README.md
-  01-共学营说明/
+  00-共学营说明/
     README.md
-  02-task1-ai-coding/
+  01-task1-ai-coding/
     README.md
     image.png
     image-1.png

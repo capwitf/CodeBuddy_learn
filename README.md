@@ -7,7 +7,9 @@
 
 ## 📌 现在有什么
 
-- 🧠 第 1 章：Task1，认识 AI Coding
+- 📘 第 1 章：共学营说明
+- 🧠 第 2 章：Task1，认识 AI Coding
+- 📒 第 3 章：Task2：上手 CodeBuddy
 
 ## 🗂️ 目录
 
@@ -18,12 +20,16 @@
 ```text
 chapters/
   README.md
-  00-共学营说明/
+  01-共学营说明/
     README.md
-  01-task1-ai-coding/
+  02-task1-ai-coding/
     README.md
     image.png
     image-1.png
+  03-task2-上手-CodeBuddy/
+    README.md
+    image.png
+    image 1.png
 ```
 
 ## ✍️ 怎么用
@@ -36,15 +42,12 @@ chapters/
 
 后面我会继续按官方活动页的章节整理自己的笔记：
 
-- 🛠️ Task2：上手 CodeBuddy
 - 🚀 Task3：实战 Hello AI World
 - 🔁 Task4：复盘 & 输出
-
 
 ## ✉️ 联系方式
 
 - `capwitf@outlook.com`  任何问题意见欢迎联系
-
 
 <div align="center">
   <img src="assets/capwitf.png" alt="capwitf 签名" width="320" />

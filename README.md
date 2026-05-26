@@ -9,7 +9,8 @@
 
 - 📘 第 1 章：共学营说明
 - 🧠 第 2 章：Task1，认识 AI Coding
-- 📒 第 3 章：Task2：上手 CodeBuddy（githun.com/capwitf/t2w
+- 📒 第 3 章：Task2：上手 CodeBuddy
+- ✍️ 第 4 章：Task3：实战_Hello_AI_World
 
 ## 🗂️ 目录
 
